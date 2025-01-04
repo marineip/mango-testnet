@@ -84,6 +84,7 @@ Bot ? Maybe
 ## BOT FEATURE
 - Multi Account 
 - Support PK
+- Proxy Support
 - Daily Claim Faucet (**DISABLED**)
 - Daily Mango Swap 
 - Daily BeingDex Beta DAPP
