@@ -85,7 +85,7 @@ Bot ? Maybe
 - Multi Account 
 - Support PK
 - Proxy Support
-- Daily Claim Faucet (**DISABLED**)
+- Daily Claim Faucet
 - Daily Mango Swap 
 - Daily BeingDex Beta DAPP
 - Daily Check In
