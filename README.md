@@ -173,7 +173,7 @@ DWYOR & Always use a new wallet when running the bot, I am not responsible for a
 
 How to get BRIDGE RAW DATA ? 
 
-- Do manual Bridge from ETH (USDT) to MANGO(USDT) WITH SMALL AMOUNT , EX : 0.0001 USDT
+- Do manual Native Token Bridge (ETH or BNB) from ETH to MANGO WITH SMALL AMOUNT , EX : 0.00001 Token
 - Approve Token Spend
 - Approve Bridge Tx
 - Go to explorer and search for your tx hash showed on your wallet history
