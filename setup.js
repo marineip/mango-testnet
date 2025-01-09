@@ -77,6 +77,10 @@ const copyOperations = [
     dest: path.join("config", "proxy_list.js"),
   },
   {
+    src: path.join("config", "config_tmp.js"),
+    dest: path.join("config", "config.js"),
+  },
+  {
     src: path.join("accounts", "accounts_tmp.js"),
     dest: path.join("accounts", "accounts.js"),
   },
