@@ -21,58 +21,17 @@
 - Register Mango Testnet Using Creator Reff Code
 - Funded Mango Wallet With ETH SEPOLIA and TESTNET BNB
 
-## Join My Telegram Channel
-```
-                                                          
-                      ...                                 
-                     .;:.                                 
-                    .;ol,.                                
-                   .;ooc:'                                
-            ..    .;ooccc:'.    ..                        
-          .',....'cdxlccccc;.....,'.                      
-         .;;..'';clolccccccc:,''..;;.                     
-        ':c'..':cccccccccccccc;...'c:.                    
-       ':cc,.'ccccccccccccccccc:..;cc:'                   
-    ...:cc;.':cccccccccccccccccc:..:cc:...                
-   .;';cc;.':;;:cccccccccccccc:;;;'.;cc,,;.               
-  .cc':c:.',.....;cccccccccc;.....,..:c:'c:               
-  ,x:'cc;.,'     .':cccccc:'.     ',.;cc':x'              
-  lO,'cc;.;,       .;cccc:.       ,;.;cc';0l              
- .o0;.;c;.,:'......',''''''......':,.;c;.:0l.             
- .lxl,.;,..;c::::;:,.    .,:;::::c;..,;.,oxl.             
- .lkxOl..  ..'..;::'..''..'::;..'..  ..c0xkl.             
-  .cKMx.        .;c:;:cc:;:c:.        .xMKc.              
-    ;KX:         ;o::l:;cc;o:.        ;KK;                
-     :KK:.       ,d,cd,'ol'o:       .:0K:                 
-      ;0NOl:;:loo;. ... .. .;ldlc::lkN0:                  
-       .lONNNKOx0Xd,;;'.,:,lKKkk0XNN0o.                   
-         .','.. .lX0doooodOXd.  .','.                     
-                 .,okkddxkd;.                             
-                    'oxxd;.                               
-   ........................................                              
-   .OWo  xNd lox  xxl Ald   xoc dakkkkkxsx.              
-   .OWo  o0W cXW  dM0 MMN   lNK laddKMNkso.               
-   .kMKoxsNN oWX  dW0 MMMWO lWK    axM0   .                
-   .OMWXNaMX dM0  kM0 MMKxNXKW0    axMk   .                 
-   .OMk  dWK oWX XWdx Mxx  XMMO    akMx   .                 
-   'OWo  dM0 'kNNXNNd DMD   OWk    aoWd   .                 
-   ........................................
-
-```                                      
-
-Anyway i create new telegram channel just for sharing bot or airdrop, join here
-[**https://t.me/skeldrophunt**](https://t.me/skeldrophunt).
-
+                      
 ## Initverse Incentive Testnet Airdrop
 #New
 
 Mango Testnet 
 
-➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=tVB90U)
+➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=zqMGvJ)
 - Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
 - Backup Phrase
 - Claim Faucet on your wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=tVB90U) 
+- Go To [Web](https://task.testnet.mangonetwork.io/?invite=zqMGvJ) 
 - Complete Bind Social Media Accounts and JOIN NOW
 - Go to [Event Page](https://task.testnet.mangonetwork.io/events)
 - Complete Task on the Task List ( Swap , Bridge )
